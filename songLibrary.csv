@@ -1,4 +1,4 @@
-Song,Artist,Difficulty,Beatmap
-Bruh,kill me,EASY,
-Bruh,kill me,MEDIUM,
-CRAZY,LE SSERAFIM,,
+Song,Artist,Difficulty,Beatmap,TrackFile
+Bruh,kill me,EASY,,
+Bruh,kill me,MEDIUM,,
+CRAZY,LE SSERAFIM,,,crazy-lesserafim.mp3
